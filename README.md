@@ -4,7 +4,8 @@ This lab is about configuring three different networks using the Enhanced Interi
 
 # This lab is about configuring three different networks using the Enhanced Interior Gateway Routing Protocol (EIGRP) to help routers share routes and allow all devices in the networks to communicate with each other.
 
-![Uploading image.png…]()
+![Uploading image.png…](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/09a030dd-c4c3-4f6c-af70-055213f08678" />
+)
 
 
 
