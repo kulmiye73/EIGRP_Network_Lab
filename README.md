@@ -284,4 +284,5 @@ Approximate round trip times in milli-seconds:
     Minimum = 0ms, Maximum = 0ms, Average = 0ms
 
 
-## Now the both side of the network are communicating using EIRGP protocol
+## Both sides of the network are now successfully communicating using the EIGRP protocol, ensuring full route exchange and network connectivity.
+
