@@ -10,7 +10,7 @@ This lab is about configuring three different networks using the Enhanced Interi
 
 
 
-##I am configuring Router1 by assigning its IP address and subnet mask.
+## I am configuring Router1 by assigning its IP address and subnet mask.
 
 
 
@@ -284,4 +284,4 @@ Approximate round trip times in milli-seconds:
     Minimum = 0ms, Maximum = 0ms, Average = 0ms
 
 
-## now the both side of the network are communicating using EIRGP protocol
+## Now the both side of the network are communicating using EIRGP protocol
